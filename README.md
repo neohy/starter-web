@@ -8,7 +8,11 @@ This example is to show different parts of Git repository and various commands u
 
 ## Purpose
 
+To provide simple examples for Git training demos.
+
 ## Deployment
+
+This is a simple web project. Deployment can be on any webserver or local file system.
 
 ## How to Contribute
 
