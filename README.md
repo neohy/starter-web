@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
 
-2014 Git.Taining
+2014 Git.Taining. All rights reserved.
